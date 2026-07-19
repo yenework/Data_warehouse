@@ -1,2 +1,2 @@
-# Data_warehouse
+# SQL_Data_warehouse
 Medallion Architecture
